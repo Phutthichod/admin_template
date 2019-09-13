@@ -19,13 +19,13 @@
     <li class="nav-item" id="user_manage">
       <a class="nav-link" href="../user/user_manage.php">
         <span class="menu-title">User manage</span>
-        <i class="icon-layers menu-icon"></i>
+        <i class="icon-people menu-icon"></i>
       </a>
     </li>
     <li class="nav-item" id="plant_manage">
       <a class="nav-link" href="../plant/plant_manage.php">
         <span class="menu-title">Plant manage</span>
-        <i class="icon-globe menu-icon"></i>
+        <i class=" icon-fire menu-icon"></i>
       </a>
     </li>
   </ul>
