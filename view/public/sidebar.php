@@ -30,7 +30,8 @@
     </li>
   </ul>
 </nav>
-<?php 
+<!-- active nav-item -->
+<?php
   require('../../oop/template.php');
   $setActive = new template();
 ?>
