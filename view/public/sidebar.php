@@ -1,7 +1,7 @@
 <nav class="sidebar sidebar-offcanvas" id="sidebar">
   <ul class="nav">
     <li class="nav-item nav-profile">
-      <a href="#" class="nav-link">
+      <a href="../../index.php" class="nav-link">
         <div class="profile-image">
           <img class="img-xs rounded-circle" src="../../images/faces/face8.jpg" alt="profile image">
           <div class="dot-indicator bg-success"></div>

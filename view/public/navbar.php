@@ -1,6 +1,6 @@
 <nav class="navbar default-layout-navbar col-lg-12 col-12 p-0 fixed-top d-flex flex-row">
   <div class="navbar-brand-wrapper d-flex align-items-center">
-    <a class="navbar-brand brand-logo" href="#">
+    <a class="navbar-brand brand-logo" href="../../index.php">
       <img style="padding:0; width:auto;"src="../../images/logo_plant.svg" alt="logo" class="logo-dark" />
       <span style="color: white;"><strong>plant</strong></span>
     </a>
